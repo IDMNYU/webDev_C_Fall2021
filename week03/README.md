@@ -1,3 +1,13 @@
+#### Git commands
+```
+git status
+git add .
+git commit -m "I am saving my work. This is my commit message."
+git status
+git push origin master
+```
+
+
 #### Resources
 ##### Git
 * [Installing Git](https://git-scm.com/downloads)

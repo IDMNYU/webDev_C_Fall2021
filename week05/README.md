@@ -19,6 +19,7 @@
   * [CSS Tricks Newbie Stuff](https://css-tricks.com/little-css-stuff-newcomers-get-confused-about/)
 	* [CSS Positioning 101](https://alistapart.com/article/css-positioning-101/)
 	* [Holy Grail CSS Positioning](https://webdesign.tutsplus.com/tutorials/the-holy-grail-of-css-centering--cms-22114)
+	* [CSS Border-radius Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-radius_generator)
   * [MDN box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
   * [Text Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
 	* [Overflow Y](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_overflow-y)

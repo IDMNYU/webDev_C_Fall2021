@@ -12,11 +12,8 @@ With a partner, students will choose 1 artwork or artist from either the [Rhizom
 * Post a link to your net.art Presentation Web Site (Slide Deck) 
 * Remember this is a presentation to the class. We should hear from both people in the partnership. 
 
-#### Assignment due Saturday:
-Spend time this weekend on the above sites with the artworks. Pick two works you are most interested in and post your list of top picks to Discord server by 8pm EST Saturday. 
 
 #### Assignment for Tuesay:
-* Use the stream to find other folks who liked similar works and pair yourselves up accordingly.  If you would like to work with someone in particular - reach out to them and then dm or email me. 
 * Be prepared to meet with your partner. Look at the work together and talk about the expirence of looking at it. Make notes - this conversation will lead to your talking points in the presentation. Take screen shots and/or recordings of yourself interacting with the work. If you each have a different experience of the piece - great! Show us and talk about the differences. Not simply "i liked it, s/he didn't" but actually what you each materially experienced on your different screens. 
 
 #### Presentations due during class Monday the 18th. You will have all of Tuesday and Wednesday the 13th to work with your partner in class. 

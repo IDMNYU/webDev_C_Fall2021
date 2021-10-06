@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+}
+hr {
+  border: solid black 3px;
+}
+figure img{
+  width: 500px;
+  
+}
+
+body {
+  background-color: gray;
+ }
+
+ div {
+   background-color: black;
+   width: 600px;
+   height: 100px;
+   position: absolute;
+   top: 500px;
+   left: 100px;
+   z-index: -1;
+
+ }
+button {
+  background-color: rgba(50,50,50);
+   padding: 2vw;
+   border-radius: 40px;
+   position: relative;
+   left: 600px;
+  
+ }
+ button:hover {
+   background-color: black;
+   color: white;
+ }

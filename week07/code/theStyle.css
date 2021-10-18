@@ -1,0 +1,65 @@
+body{
+    background-color: black; 
+    font-family: 'Spartan';
+    color: white;
+   }
+   
+   
+   /* this is a media query: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries */
+   @media screen and (max-width: 500px){
+       body {
+     background-color:rgb(255,255,255);
+     color: rgb(0,0,0);
+       }
+   
+   }
+   
+   
+   p {
+     color: white;
+     /* this font is being loaded into the head of the html via
+     the Google Font API */
+     font-family: 'Trade Winds';
+     font-size: 65px;
+     padding: 2vw;
+     border: solid rgb(235, 128, 155);
+   
+   }
+   
+   #theFlex {
+     background-color: rgb(0,150,0);
+     /* height: 100px; */
+     display: flex;
+     flex-direction: column;
+     /* align-items: center; */
+   
+   }
+   
+   .thisItem{
+     padding: 3vw;
+     margin: 2vh;
+     background-color: pink;
+     border-radius: 30px;
+   }
+   
+   .thisItem:hover {
+    background-color: white;
+   
+   }
+   
+ #thisWorld {
+    height: 400px;
+    background-color: yellow;
+ }
+   #thisWorld img {
+     width: 500px;
+   
+   }
+
+   #thisWorld:hover {
+       background-color: pink;
+   }
+
+   #thisWorld img:hover {
+    display: none;
+}

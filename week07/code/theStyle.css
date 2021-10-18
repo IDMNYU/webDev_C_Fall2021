@@ -8,8 +8,12 @@ body{
    /* this is a media query: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries */
    @media screen and (max-width: 500px){
        body {
-     background-color:rgb(255,255,255);
-     color: rgb(0,0,0);
+      background-color:rgb(255,255,255);
+
+       }
+       h2 {
+         font-size: 20vw;
+         color: black;
        }
    
    }
@@ -31,7 +35,7 @@ body{
      /* height: 100px; */
      display: flex;
      flex-direction: column;
-     /* align-items: center; */
+     align-items: center;
    
    }
    
@@ -46,6 +50,10 @@ body{
     background-color: white;
    
    }
+   /* JPG
+   rgb(255,255,255)
+   png
+   rgba(0,0,0,0) */
    
  #thisWorld {
     height: 400px;
